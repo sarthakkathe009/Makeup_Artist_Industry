@@ -1,0 +1,220 @@
+*{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.carousel-control-prev-icon:hover,.carousel-control-next-icon:hover{
+    width:100px;
+    height:100px;
+}
+ 
+
+/* .search-local {
+	display: flex;
+    flex: column;
+	align-items: center;
+	column-gap: 1.5rem;
+} */
+
+/* ICON */
+.icon {
+	cursor: pointer;
+}
+
+/* INPUT */
+.search-in {
+	height: 100%;
+	width: 100%;
+	outline: none;
+	border: none;
+}
+
+#nav-search{
+    border: 1px solid white;
+    padding: 0.5rem 0.9rem;
+    border-radius: 20px;
+    background-color: white;
+}
+
+/* div sup{
+    border:2px solid transparent;
+    border-radius: 20px;
+    padding: 1.5px 5px;
+    font-size: small;
+	
+}
+
+
+.navbar-nav sup{
+	top: -0.5rem;
+	color:white
+
+} */
+
+.slide-btn{
+    text-decoration: none;
+    background-color: red;
+    border-radius: 30px;
+}
+
+.c-cap-hp,.c-cap-w{
+    letter-spacing: 5px;
+}
+
+.c-item{
+    height: 750px;
+}
+.c-img{
+	object-fit: cover;
+    height: 100%;
+}
+
+.mydropdown,.mydropdown2,.mydropdown3{
+	display: none;
+	
+ 	/* margin: 10px 0; */
+	cursor: pointer;
+	font-size: 22px;
+
+}
+
+
+.page:hover>.mydropdown2,.blog:hover>.mydropdown3{
+    display: block;
+    position: absolute;
+    z-index: 1000;
+}
+
+.shops:hover>.mydropdown{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	background-color: white;
+	column-gap: 100px;
+	padding: 20px;
+    position: absolute;
+    left: 250px;
+    z-index: 1000;
+    margin: 10px 0px !important;
+}
+
+.dropdown-link{
+    text-decoration: none;
+    color:gray;
+    padding: 15px 0;
+    padding-right: 65px;
+    font-size: smaller;
+}
+
+.dropdown-link:hover,.mydropdown p:hover{
+    color:red;
+}
+
+.mydropdown h2,.mydropdown p{
+	font-size: 15px;
+}
+
+.mydropdown p{
+    color: gray;
+}
+
+.page ul,.blog ul{
+    list-style: none;
+    margin-top: 0;
+    padding-left: 10px;
+    text-transform: uppercase;
+    color: gray;
+}
+
+.mydropdown2 li,.mydropdown3 li{
+    padding: 0.7rem;
+    padding-right: 70px;
+    font-size: 14px;
+    background-color: white;
+}
+
+.shops:hover > .mydropdown,.page:hover > .mydropdown2,.blog:hover > .mydropdown3{
+    transform-origin: top center;
+    animation:animate 300ms ease-in forwards;
+    animation-delay: -150ms;
+    perspective: 1000px;
+}
+
+@keyframes animate{
+    0%{
+        transform: rotateX(-100deg);
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+.nav-link:active{
+    color:black !important;
+}
+
+/* Shops Page */
+
+.scroll-to-top-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+}
+
+.c-cap-h0{
+    animation: fadeInRight 1.0s ease-out forwards;
+}
+
+@keyframes fadeInRight {
+    0%{
+        opacity: 0;
+        transform: translateX(-100px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}
+.c-cap-h{
+    animation: fadeInUp 1s ease-in-out;
+}
+.c-cap-hp{
+    animation: fadeInUp 1s ease-in-out;
+}
+
+@keyframes fadeInUp {
+    0%{
+        opacity: 0;
+        transform: translateY(200px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+} 
+
+.c-cap-h1{
+    animation: fadeInDown 1s ease-in-out;
+}
+
+@keyframes fadeInDown{
+    0%{
+        opacity: 0;
+        transform: translateY(-200px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+
+
+/* Home Page */
+
+.home-img{
+    transition: ease 0.3s ;
+}
+
+.home-img:hover{
+    transform: scale(1.1);
+}
+
+

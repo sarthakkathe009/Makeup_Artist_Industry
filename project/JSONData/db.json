@@ -1,0 +1,413 @@
+{
+  "trimmers": [
+    {
+      "id": "1",
+      "name": "Havells Bt5100C Rechargeable Beard Trimmer",
+      "img": "Imgs/Trimmers/Trim1.jpeg",
+      "rs": 797,
+      "rs1": 1495
+    },
+    {
+      "id": "2",
+      "name": "Philips Multi Grooming Kit MG3710/65, All-in-one",
+      "img": "Imgs/Trimmers/Trim2.jpeg",
+      "rs": 1496,
+      "rs1": 1995
+    },
+    {
+      "id": "3",
+      "name": "Philips Battery Powered SkinProtect Beard Trimmer",
+      "img": "Imgs/Trimmers/Trim3.jpeg",
+      "rs": 896,
+      "rs1": 995
+    },
+    {
+      "id": "4",
+      "name": "PHILIPS BT3231/15 Smart Beard Trimmer",
+      "img": "Imgs/Trimmers/Trim4.jpeg",
+      "rs": 1695,
+      "rs1": 1995
+    },
+    {
+      "id": "5",
+      "name": "MI Beard Trimmer for men, full body Waterproof IPX7",
+      "img": "Imgs/Trimmers/Trim5.jpeg",
+      "rs": 1299,
+      "rs1": 1799
+    },
+    {
+      "id": "6",
+      "name": "MI Xiaomi Grooming Kit, Professional Styling Trimmer",
+      "img": "Imgs/Trimmers/Trim6.jpeg",
+      "rs": 1599,
+      "rs1": 3299
+    },
+    {
+      "id": "7",
+      "name": "BEARDO Ninja-X Vacuum Trimmer for Men",
+      "img": "Imgs/Trimmers/Trim7.jpeg",
+      "rs": 1249,
+      "rs1": 2400
+    },
+    {
+      "id": "8",
+      "name": "MI Xiaomi Beard Trimmer 2C With High Precision Trimming",
+      "img": "Imgs/Trimmers/Trim8.jpeg",
+      "rs": 999,
+      "rs1": 1999
+    },
+    {
+      "id": "9",
+      "name": "Philips BG1025/15 Showerproof Body Groomer for Men",
+      "img": "Imgs/Trimmers/Trim9.jpeg",
+      "rs": 1179,
+      "rs1": 1495
+    },
+    {
+      "id": "10",
+      "name": "Bombay Shaving Company Power Play Trimmer For Men",
+      "img": "Imgs/Trimmers/Trim10.jpeg",
+      "rs": 599,
+      "rs1": 899
+    },
+    {
+      "id": "11",
+      "name": "Beardo Ape-X 3-in-1 Multipurpose Trimmer for Men",
+      "img": "Imgs/Trimmers/Trim11.jpeg",
+      "rs": 899,
+      "rs1": 1499
+    },
+    {
+      "id": "12",
+      "name": "Morphy Richards Kingsman Pro 12-in-1 Body Groomer",
+      "img": "Imgs/Trimmers/Trim12.jpeg",
+      "rs": 1549,
+      "rs1": 2995
+    },
+    {
+      "id": "13",
+      "name": "Lifelong Men's Trimmer - Beard, Hair, & Body Shaver",
+      "img": "Imgs/Trimmers/Trim13.jpeg",
+      "rs": 649,
+      "rs1": 2000
+    },
+    {
+      "id": "14",
+      "name": "Nova NHT-1045 Rechargeable Cordless",
+      "img": "Imgs/Trimmers/Trim14.jpeg",
+      "rs": 348,
+      "rs1": 995
+    },
+    {
+      "id": "15",
+      "name": "Wahl 5608-524 Cordless Mini Groomsman Grooming Trimmer",
+      "img": "Imgs/Trimmers/Trim15.jpeg",
+      "rs": 488,
+      "rs1": 1000
+    }
+  ],
+  "shavingKit": [
+    {
+      "id": "1",
+      "name": "Park Avenue Luxury Grooming Collection 8 in 1 Combo",
+      "img": "Imgs/Shaving Kit/sk1.jpeg",
+      "rs": 546,
+      "rs1": 730
+    },
+    {
+      "id": "2",
+      "name": "Gillette Fusion Proglide Razor for Men",
+      "img": "Imgs/Shaving Kit/sk2.jpeg",
+      "rs": 411,
+      "rs1": 549
+    },
+    {
+      "id": "3",
+      "name": "Gillette Guard 5 in 1 Shaving Kit for Men",
+      "img": "Imgs/Shaving Kit/sk3.jpeg",
+      "rs": 248,
+      "rs1": 275
+    },
+    {
+      "id": "4",
+      "name": "Gillette Fusion Premium Gift Set for Men",
+      "img": "Imgs/Shaving Kit/sk9.jpeg",
+      "rs": 1039,
+      "rs1": 1499
+    },
+    {
+      "id": "5",
+      "name": "Bombay Shaving Co 3 Step Shaving Kit For Men",
+      "img": "Imgs/Shaving Kit/sk5.jpeg",
+      "rs": 999,
+      "rs1": 1530
+    },
+    {
+      "id": "6",
+      "name": "Wild Stone 7 Essentials Grooming Kit with Ultra Shave",
+      "img": "Imgs/Shaving Kit/sk6.jpeg",
+      "rs": 419,
+      "rs1": 599
+    },
+    {
+      "id": "7",
+      "name": "Oraimo SmartShaver 2 Premium Cordless Electric Shaver",
+      "img": "Imgs/Shaving Kit/sk7.jpeg",
+      "rs": 1399,
+      "rs1": 2999
+    },
+    {
+      "id": "8",
+      "name": "Gillette Mach3 Charcoal Shaving Razor for Men",
+      "img": "Imgs/Shaving Kit/sk8.jpg",
+      "rs": 225,
+      "rs1": 300
+    },
+    {
+      "id": "9",
+      "name": "Park Avenue Essential Grooming Collection 7 in 1 Combo",
+      "img": "Imgs/Shaving Kit/sk4.jpeg",
+      "rs": 354,
+      "rs1": 460
+    },
+    {
+      "id": "10",
+      "name": "Hajamat Essential Shaving Kit for Men | Shaving Set for men",
+      "img": "Imgs/Shaving Kit/sk10.jpeg",
+      "rs": 829,
+      "rs1": 1295
+    }
+  ],
+  "moisturizer": [
+    {
+      "id": "1",
+      "name": "La Shield Probiotic Moisturizer Face Cream",
+      "img": "Imgs/Moisturizer/m1.jpeg",
+      "rs": 239,
+      "rs1": 399
+    },
+    {
+      "id": "2",
+      "name": "Plum Green Tea Oil Free Moisturizer",
+      "img": "Imgs/Moisturizer/m2.jpeg",
+      "rs": 282,
+      "rs1": 564
+    },
+    {
+      "id": "3",
+      "name": "Dr. Sheth's Ceramide & Vitamin C Oil - Free Moisturizer",
+      "img": "Imgs/Moisturizer/m3.jpeg",
+      "rs": 295,
+      "rs1": 349
+    },
+    {
+      "id": "4",
+      "name": "Re’equil Oil Free Moisturiser | Non Sticky Hydration",
+      "img": "Imgs/Moisturizer/m4.jpeg",
+      "rs": 295,
+      "rs1": 395
+    },
+    {
+      "id": "5",
+      "name": "Vaseline Intensive Care Deep Moisture Nourishing Body Lotion",
+      "img": "Imgs/Moisturizer/m5.jpeg",
+      "rs": 469,
+      "rs1": 625
+    },
+    {
+      "id": "6",
+      "name": "Minimalist 10% Vitamin B5 Gel Face Moisturizer",
+      "img": "Imgs/Moisturizer/m6.jpeg",
+      "rs": 284,
+      "rs1": 299
+    },
+    {
+      "id": "7",
+      "name": "Biotique Morning Nectar Flawless Skin Moisturizer",
+      "img": "Imgs/Moisturizer/m7.jpeg",
+      "rs": 168,
+      "rs1": 330
+    },
+    {
+      "id": "8",
+      "name": "NIVEA Soft Light Moisturizer, 300 ml",
+      "img": "Imgs/Moisturizer/m8.jpeg",
+      "rs": 275,
+      "rs1": 465
+    },
+    {
+      "id": "9",
+      "name": "NIVEA Nourishing Body Milk 400ml Body Lotion",
+      "img": "Imgs/Moisturizer/m9.jpeg",
+      "rs": 299,
+      "rs1": 460
+    },
+    {
+      "id": "10",
+      "name": "Khadi Natural Sandalwood & Kesar Moisturizer",
+      "img": "Imgs/Moisturizer/m10.jpeg",
+      "rs": 117,
+      "rs1": 210
+    },
+    {
+      "id": "11",
+      "name": "Dot & Key Vitamin C + E Sorbet Super Bright Moisturizer",
+      "img": "Imgs/Moisturizer/m11.jpeg",
+      "rs": 455,
+      "rs1": 545
+    },
+    {
+      "id": "12",
+      "name": "Boroplus Body Lotion Provides 24Hrs Moisturisation",
+      "img": "Imgs/Moisturizer/m12.jpeg",
+      "rs": 168,
+      "rs1": 375
+    }
+  ],
+  "facewash": [
+    {
+      "id": "1",
+      "name": "Garnier Skin Naturals Bright Complete Vitamin C",
+      "img": "Imgs/Face Wash/fw1.jpeg",
+      "rs": 179,
+      "rs1": 299
+    },
+    {
+      "id": "2",
+      "name": "NIVEA Refreshing Facewash, 150ml",
+      "img": "Imgs/Face Wash/fw2.jpeg",
+      "rs": 171,
+      "rs1": 245
+    },
+    {
+      "id": "3",
+      "name": "Himalaya Herbals Purifying Neem Face Wash",
+      "img": "Imgs/Face Wash/fw3.jpeg",
+      "rs": 150,
+      "rs1": 250
+    },
+    {
+      "id": "4",
+      "name": "Himalaya Moistur Aloe Vera Face Wash",
+      "img": "Imgs/Face Wash/fw4.jpeg",
+      "rs": 117,
+      "rs1": 235
+    },
+    {
+      "id": "5",
+      "name": "Cetaphil Face Wash Gentle Skin Cleanser",
+      "img": "Imgs/Face Wash/fw5.jpeg",
+      "rs": 326,
+      "rs1": 333
+    },
+    {
+      "id": "6",
+      "name": "Biotique Fruit Brightening Face Wash",
+      "img": "Imgs/Face Wash/fw6.jpeg",
+      "rs": 153,
+      "rs1": 240
+    },
+    {
+      "id": "7",
+      "name": "WOW Skin Science Brightening Vitamin C Foaming",
+      "img": "Imgs/Face Wash/fw7.jpeg",
+      "rs": 349,
+      "rs1": 399
+    },
+    {
+      "id": "8",
+      "name": "Nivea Men Face Wash, Oil Control For 12Hr Oil Control",
+      "img": "Imgs/Face Wash/fw8.webp",
+      "rs": 199,
+      "rs1": 299
+    }
+  ],
+  "cart": [
+    {
+      "name": "Philips Multi Grooming Kit MG3710/65, All-in-one",
+      "img": "Imgs/Trimmers/Trim2.jpeg",
+      "rs": 1496,
+      "rs1": 1995,
+      "id": "6"
+    },
+    {
+      "id": "d852",
+      "name": "Havells Bt5100C Rechargeable Beard Trimmer",
+      "img": "Imgs/Trimmers/Trim1.jpeg",
+      "rs": 797,
+      "rs1": 1495
+    },
+    {
+      "id": "c7da",
+      "name": "MI Xiaomi Grooming Kit, Professional Styling Trimmer",
+      "img": "Imgs/Trimmers/Trim6.jpeg",
+      "rs": 1599,
+      "rs1": 3299
+    },
+    {
+      "id": "96ec",
+      "name": "Wild Stone 7 Essentials Grooming Kit with Ultra Shave",
+      "img": "Imgs/Shaving Kit/sk6.jpeg",
+      "rs": 419,
+      "rs1": 599
+    }
+  ],
+  "arrivals": [
+    {
+      "id": "1",
+      "name": "Beard Brush, Lightweight Beard Shaving Tool",
+      "img": "Imgs/Arrivals/st-1.jpg",
+      "rs": 452,
+      "rating": 4
+    },
+    {
+      "id": "2",
+      "name": "GUBB Grooming Scissor Small for Men",
+      "img": "Imgs/Arrivals/st-2.jpg",
+      "rs": 229,
+      "rating": 3.5
+    },
+    {
+      "id": "3",
+      "name": "Generic Shaving Brush, Shaving Set for Men",
+      "img": "Imgs/Arrivals/st-3.webp",
+      "rs": 437,
+      "rating": 5
+    },
+    {
+      "id": "4",
+      "name": "Electric Shaver, USB Rechargeable Shaver",
+      "img": "Imgs/Arrivals/st-4.webp",
+      "rs": 587,
+      "rating": 4.5
+    },
+    {
+      "id": "5",
+      "name": "Anself 3 In 1 Men's Shaving Tool Set Shaving Brush",
+      "img": "Imgs/Arrivals/st-5.webp",
+      "rs": 351,
+      "rating": 4
+    },
+    {
+      "id": "6",
+      "name": "RT SHOP Professional Barber Shaving Razor",
+      "img": "Imgs/Arrivals/st-6.webp",
+      "rs": 399,
+      "rating": 4
+    },
+    {
+      "id": "7",
+      "name": "Shaving Brush, Shaving Tool Stainless Steel Handle",
+      "img": "Imgs/Arrivals/st-7.webp",
+      "rs": 413,
+      "rating": 5
+    },
+    {
+      "id": "8",
+      "name": "Ashoka Men Double Edge Brass Safety Razor with Blades",
+      "img": "Imgs/Arrivals/st-8.jpg",
+      "rs": 349,
+      "rating": 4
+    }
+  ]
+}

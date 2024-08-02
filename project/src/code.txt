@@ -1,0 +1,54 @@
+logic for count does not exceed zero(to be passed in set method) = Math.max(count - 1, 0)
+
+<div class="product-carousel">
+
+    <btn><p><btn/>
+    <btn><p><btn/>
+
+    <div class="product-container">
+        products...
+    <div/>
+
+<div/>
+
+.product-carousel{
+    position:relative;
+    overflow:hidden;
+    padding:26px
+}
+
+.product-container{
+    padding:0 10px;
+    display:flex;
+    overflow-x:hidden;
+    scroll-behaviour:smooth
+}
+
+.pre-btn,next-btn{
+    border:none;
+    width:60px;
+    height:100%;
+    position:absolute;
+    top:0;
+    display:flex;
+    justify-content:center;
+    align-item:center;
+}
+
+.btn p{
+    styling btn as per need
+}
+
+in jsx.file
+---Pass in onClick 
+document.querySelector('.product-container')
+const btnPrev=()=>{
+    let width = box.clientWidth;
+    box.scrollLeft = box.scrollLeft - width
+}
+const btnPrev=()=>{
+    let width = box.clientWidth;
+    box.scrollLeft = box.scrollLeft + width
+}
+
+onClick={()=>{if(window.confirm("Are you sure?")){deleteItem(val.id)}}}
